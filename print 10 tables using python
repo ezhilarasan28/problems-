@@ -1,0 +1,4 @@
+# print the 10th table using python 
+
+for i in range(1,11):
+   print("10x",i"=",10*i)
